@@ -1,4 +1,3 @@
-* Email: contact@botble.com
-* Website: botble.com
-* Support center: https://botble.ticksy.com
-* Online documentation: https://docs.botble.com/nest
+* Email: support@excelitai.com
+* Website: excelitai.com
+* Support center: https://excelitai.com/contact
